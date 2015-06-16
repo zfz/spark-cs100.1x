@@ -1,0 +1,31 @@
+Seven Countries Study Q1
+(1/1 point)
+What would Fischer say is a potential flaw of the Seven Countries Study?
+1) "Causation does not imply correlation" 
+2) "Correlation implies causation"
+3) "Correlation does not imply causation", - correct
+4) "Correlation does not imply causation"
+
+Seven Countries Study Q2
+(1/1 point)
+What other lessons can a data scientist take away from the Seven Countries
+Study?
+1) Use more data, Explore more types of data/factors, - correct
+2) Use more data Use less data 
+3) Explore more types of data/factors, - correct
+
+Google Flu Trends
+(1/1 point)
+What does Google Flu Trends teach us?
+1) Important to identify correct factors, Search terms are influenced by users and news, - correct
+2) Computers make mistakes 
+3) Important to identify correct factors Search terms are influenced by users and news, - correct
+4) Nowcasting is always more accurate than Forecasting
+
+Social Networking Paper
+(1/1 point)
+What are the flaws in the social networking paper?
+1) Correlation does not imply causation, You have to identify all the importan factors, - correct
+2) Correlation does not imply causation Causation does not imply correlation
+3) You have to identify all the important factors, - correct
+4) Princeton will have no students by 2021
