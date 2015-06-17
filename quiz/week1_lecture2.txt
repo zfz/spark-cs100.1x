@@ -1,0 +1,38 @@
+Data Science Danger Zone
+(1/1 point)
+Why is a hacker with substantive expertise a dangerous combination? Select all answers that match:
+1) Can apply Machine Learning to big data problems
+2) Can end up performing statistically incorrect analyses, - correct
+3) May fail to ignore irrelevant factors (more computation), - correct
+4) Uses traditional research to solve problems
+5) Can create what legitimate appearing analysis without any understanding of how they got there or what they have created, - correct
+
+Curating and Filtering Data
+(1/1 point)
+Why is curating/filtering data a key model component?
+1) Real-world data patterns are easy to model 
+2) Real-world data is very dirty
+3) Real-world data is very dirty, - correct 
+4) Real-world data should never be filtered Real-world data does not require curating
+
+Overcoming Assumptions
+(1/1 point)
+Why is overcoming assumptions hard? Select all the answers that match:
+1) Assumptions are always correct It is human nature to make assumptions
+2) It is human nature to make assumptions, Humans have biases based on prior observations , - correct
+3) Humans have biases based on prior observations, - correct
+
+Impediments to Collaboration
+(1/1 point)
+What are some impediments to collaboration? Select all the answers that match:
+1) One-off analyses, - correct
+2) Diverse tools and programming/scripting languages, - correct
+3) Poor script, program, and tool library management, - correct
+4) Often easier to rewrite a script instead of searching for it, - correct
+
+Extract-Transform-Load
+(1/1 point)
+Why is Extract-Transform-Load critical? Select all the answers that match:
+1) ETL prepares data for processing , - correct
+2) It is easier to perform data analyses before performing ETL 
+3) ETL provides the data we need for analyses, - correct
