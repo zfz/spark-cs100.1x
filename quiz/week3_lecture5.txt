@@ -1,0 +1,55 @@
+eXtensible Markup Language Documents (1/1 point)
+eXtensible Markup Language documents are an example of which type of data?
+1) Structured
+2) Semi-Structured Semi-Structured - correct
+3) Unstructured
+4) Random
+
+FIlesystem Properties (1/1 point)
+Which of the following is not always a property of a filesystem?
+1) Stores file metadata
+2) Provides an Application Programming Interface for interaction with files
+3) Arranges files in a hierarchy Arranges files in a hierarchy, - correct
+4) Stores the bytes of files on physical media
+
+The Tabular Format (1/1 point)
+Why is the tabular format so widely used?
+1) It is simple and semi-structured, - correct
+2) It is complex and semi-structured
+3) Many types of data can be represented in a table, - correct
+4) Because CSV data cannot be stored in a tabular format
+
+Tabular Data Challenges (1/1 point)
+Which of the following are challenges when working with tabular data:
+1) The format may not be well-defined, - correct
+2) The data may be missing fields, - correct
+3) Metadata may have errors, - correct
+4) There is no support for versioning of the format of the data, - correct
+5) Data types may be inconsistent across datasets, - correct
+
+Mining Log Files (1/1 point)
+Data mining application and system event log files typically includes which of
+the following actions:
+1) Looking for unusual events, - correct
+2) Monitoring machines' resources, - correct
+3) Changing the network settings on machines
+4) Visualizing information with dashboards, - correct
+5) Manipulating structured data
+
+Binary I/O Performance (1/1 point)
+Binary file I/O performance is typically much better (faster) than text file 
+I/O performance?
+1) True, - correct
+2) False
+
+File Compression (1/1 point)
+Which of the following statements are true when using compression for reading
+and writing binary or text files:
+1) Writing a compressed file is slower than writing an uncompressed file, -
+correct
+2) Reading an uncompressed file is slower than writing a compressed file
+3) The time to read a compressed file is greater than the time to write a
+compressed file
+4) Some compression methods are faster than others, - correct
+5) Reading and writing compressed files can be as fast as reading and writing
+uncompressed files, - correct
