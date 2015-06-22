@@ -1,0 +1,14 @@
+Relational Databases (1/1 point)
+What kind of data is stored in a relational database?
+1) Unstructured data
+2) Semi-structured data
+3) Structured data Structured data, - correct
+4) Random data
+
+Database Advantages (1/1 point)
+Which of the following are NOT advantages of databases:
+1) They have a well-defined structure
+2) They use indicies for high performance
+3) They have a rigid structure, - correct
+4) They guarantee data consistency
+5) They have poor support for sparse data, - correct
