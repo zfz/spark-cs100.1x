@@ -965,14 +965,14 @@ def fastCosineSimilarity(record):
     Returns:
         pair: ((ID, URL), cosine similarity value)
     """
-    print record
+    #print record
     amazonRec = record[0][0]
     googleRec = record[0][1]
     tokens = record[1]
     s = sum([amazonWeightsBroadcast.value.get(amazonRec, {}).get(t, 0) * googleWeightsBroadcast.value.get(googleRec, {}).get(t, 0) for t in tokens])
-    print s
+    #print s
     value = s / float(amazonNormsBroadcast.value[amazonRec] * googleNormsBroadcast.value[googleRec])
-    print value
+    #print value
     key = (amazonRec, googleRec)
     return (key, value)
 
