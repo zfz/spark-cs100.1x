@@ -595,7 +595,7 @@ def computeSimilarity(record):
     return (googleURL, amazonID, cs)
 
 similarities = (crossSmall
-                .map(lambda x: computeSimilarity(x))
+                .map(computeSimilarity)
                 .cache())
 
 def similar(amazonID, googleURL):
@@ -650,7 +650,7 @@ def computeSimilarityBroadcast(record):
 
 idfsSmallBroadcast = sc.broadcast(idfsSmallWeights)
 similaritiesBroadcast = (crossSmall
-                         .map(lambda x: computeSimilarityBroadcast(x))
+                         .map(computeSimilarityBroadcast)
                          .cache())
 
 def similarBroadcast(amazonID, googleURL):
@@ -979,7 +979,7 @@ def fastCosineSimilarity(record):
 #commonTokensTest = sc.parallelize(commonTokens.take(20))
 #print commonTokensTest.collect()
 similaritiesFullRDD = (commonTokens
-                       .map(lambda x: fastCosineSimilarity(x))
+                       .map(fastCosineSimilarity)
                        .cache())
 
 #print similaritiesFullRDD.take(20)
