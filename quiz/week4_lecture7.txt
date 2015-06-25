@@ -1,0 +1,45 @@
+Data Cleaning (1/1 point)
+Data cleaning helps to deal with:
+1) Unit mismatch, - correct
+2) Entity resolution, - correct
+3) Relational models
+4) Samples corrupted by a distortion process, - correct
+5) Old data
+
+Data Quality Problems (1/1 point)
+Which of the following are data quality problems?
+1) Conversions in complex pipelines can mess up data
+2) Combining multiple datasets can result in errrors
+3) Data degrades in accuracy or loses value over time
+4) All of the above, - correct
+
+Data Gathering (1/1 point)
+Why is Data Gathering an important part of the data cleaning process?
+1) You can build integrity checks into the gathering process, - correct
+2) Data gathering is the process of observing or collecting data
+3) Data gathering is not a source of data quality issues
+4) You cannot perform data cleaning during the data gathering process
+
+Data Delivery (1/1 point)
+You will often find that your data is provided by a third-party provider. What
+is not a data quality issue that you have to worry about?
+1) Data corruption during the delivery process.
+2) A commitment from the data provider about the quality of the data.
+3) The amount of data being provided. - correct
+4) The dependences betwen the data streams and processing steps.
+
+Apache Web Server Log Analysis (1/1 point)
+In Lab 2, Apache web server log analysis, you had to deal with which of the
+following data storage problem?
+1) Not understanding the metadata for the data
+2) Incorrect time stamps Ad-hoc modifications to the data
+3) Ad-hoc modifications to the data, - correct
+4) Data that doesn't meet the specifications you've assumed
+
+Data Quality Metrics (1/1 point)
+In Lab 2, Apache web server log analysis, why did we include a check for log
+lines that failed to be correctly parsed?
+1) To count the number of lines that were correctly parsed
+2) To dynamically measure data quality, - correct
+3) To make the lab hard to complete
+4) To teach you about regular expressions
