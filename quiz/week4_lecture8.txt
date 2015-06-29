@@ -1,0 +1,21 @@
+S Programming Language (1/1 point)
+Where was the S programming language invented?
+1) Google
+2) University of Auckland, New Zealand
+3) UC Berkeley
+4) Bell Labs Bell Labs, - correct
+5) Dartmouth College
+
+Distributions (1/1 point)
+What type of probability distribution does "waiting time" often follow in the real world?
+1) Normal Distribution
+2) Exponential Distribution Exponential Distribution, - correct
+3) Poisson Distribution
+4) Chi-Squared Distribution
+
+Exploratory Data Analysis (1/1 point)
+Which of the following is NOT a typical Exploratory Data Analysis activity?
+1) Visualizing data distributions
+2) Calculating summary statistics
+3) Examining data distributions
+4) Fitting a Support Vector Machine, - correct
